@@ -1,8 +1,13 @@
 """
-Calculator functions
+Simple tests
 """
 
 
 def add(x, y):
-    """"Add x and y return result."""
+    """Add x and y and return result."""
     return x+y
+
+
+def subtract(x, y):
+    """Subtract x and y and return result."""
+    return y-x
